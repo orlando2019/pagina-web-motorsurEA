@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url('../media/fp1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.container-fluid{
+    
+    max-height: 1500px;
+    max-width: 600px ;
+    margin-top: auto;
+    
+}
+
+
+.container-fluid {
+    color: #E0E1DE;
+}
+
+.formContacto1 .btn{
+    color: blue;
+}
+
+.container-fluid .ingreso{
+    text-align: center;
+}
+
+.header {
+    background: url('../media/fp1.jpg') no-repeat center center fixed ;
+    background-size: cover;
+    z-index: 10;
+}
+
+.nav-link{
+    font-size: 25px;
+}
